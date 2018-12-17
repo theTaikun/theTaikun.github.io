@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+
+---
+
 # Under Construction
 
 Please see one of my other sites until this portfolio is built.
