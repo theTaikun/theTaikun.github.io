@@ -1,13 +1,6 @@
-# Under Construction
-
-Please see one of my other sites until this portfolio is built.
-
-## Web Projects
-* [divlib](https://www.divlib.com/)
-* [GlossyEDGE](https://www.glossyedge.com)
-
-## Social Media
-* [GitHub - theTaikun](https://github.com/theTaikun)
-* [LinkedIn](https://www.linkedin.com/in/isaac-phillips-09709489/)
-
-*-I.A.Phillips*
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
