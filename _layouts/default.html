@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 	<html>
 		<head>
+			{% if jaekyll.environment == 'production' %}
 			{% include gtag.js %}
+			{% endif %}
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
