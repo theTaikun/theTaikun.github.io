@@ -2,7 +2,7 @@
 All of my public projects are hosted on my GitHub account [theTaikun](https://github.com/theTaikun).
 
 ## Open Source
-### [thetaikun.com](https://github.com/theTaikun/theTaikun.github.io) (This website)
+### [iaphillips.com](https://github.com/theTaikun/theTaikun.github.io) (This website)
 This website is a static website built with [Jekyll](https://jekyllrb.com) and hosted on Github via github pages.
 
 ### [Reddit Save Organizer](https://github.com/theTaikun/reddit-save-organizer) (Written in Python)
