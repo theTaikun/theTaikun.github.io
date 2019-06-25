@@ -1,4 +1,4 @@
-# Projects
+# List of Selected Projects
 All of my public projects are hosted on my GitHub account [theTaikun](https://github.com/theTaikun).
 
 ## Open Source
