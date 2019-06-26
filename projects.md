@@ -1,5 +1,11 @@
-# List of Selected Projects
-All of my public projects are hosted on my GitHub account [theTaikun](https://github.com/theTaikun).
+---
+layout: page
+title: Projects
+---
+
+Below is a few selected projects I've built.
+
+All public projects are hosted on my GitHub account [theTaikun](https://github.com/theTaikun).
 
 ## Open Source
 ### [iaphillips.com](https://github.com/theTaikun/theTaikun.github.io) (This website)
