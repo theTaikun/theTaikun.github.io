@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Below is a few selected projects I've built.
+Below are a select few of the projects I've built.
 
 ## Open Source
 All public projects are hosted on my GitHub account [theTaikun](https://github.com/theTaikun).

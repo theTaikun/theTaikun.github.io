@@ -1,5 +1,5 @@
 ---
-layout: home 
+layout: default
 title: Home
 
 ---
@@ -12,7 +12,7 @@ This website is still under construction
 * US Navy Veteran
   * USS Springfield (SSN-761)
   * USS Theodore Roosevelt (CVN-71)
-* Bachelor of Science
+* Bachelor of Science in Applied Science and Technology
   * Nuclear Energy Engineering Technology
   * Thomas Edison State University
 * Self taugh graphic artist
