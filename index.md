@@ -15,5 +15,5 @@ This website is still under construction
 * Bachelor of Science in Applied Science and Technology
   * Nuclear Energy Engineering Technology
   * Thomas Edison State University
-* Self taugh graphic artist
+* Self taught [graphic artist](/art/)
 * Self taught [Software and Web Developer](/projects/)
