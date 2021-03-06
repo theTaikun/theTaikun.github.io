@@ -19,4 +19,6 @@ This website is still under construction
 * Self taught [Software and Web Developer](/projects/)
 
 **Tweets from my Accounts:**
-<a class="twitter-timeline" href="https://twitter.com/TaikunTheGoon/lists/glossnet-20633?ref_src=twsrc%5Etfw">A Twitter List by TaikunTheGoon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/GlossCrew/lists/glosscrew-extended-family-10477?ref_src=twsrc%5Etfw">A Twitter List by GlossCrew</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
